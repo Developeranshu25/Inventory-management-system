@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Inventory Management System (IMS)
 
 A comprehensive Inventory Management System built with ASP.NET Core 8 Web API and React.
@@ -243,3 +244,6 @@ This project is provided as-is for educational and commercial use.
 
 For issues and questions, please create an issue in the repository.
 
+=======
+# Inventory-management-system
+>>>>>>> 6e1d5ae276e1bd0a50e2ecce04bd1eeaa33a2376
